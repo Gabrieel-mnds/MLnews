@@ -169,7 +169,7 @@ const defaultData = {
     heroImage: "imagens/uploads/tralha-tv/tralha-tv-capa-painel.jpeg",
     dogImage: "imagens/uploads/tralha-tv/tralha-tv-pagina-inicial.jpeg",
     socials: "instagram|@tralhatv|https://instagram.com/tralhatv\ntiktok|@tralhatv|https://tiktok.com/@tralhatv\nyoutube|/tralhatv|https://youtube.com/@tralhatv\ntwitter|@tralhatv|https://twitter.com/tralhatv",
-    members: "Annabelly|imagens/uploads/tralha-tv/annabelly-logo.jpeg\nMaria|imagens/uploads/tralha-tv/tralha-tv-encerramento-01.jpeg\nLyra|imagens/uploads/tralha-tv/lyra-logo.jpeg\nDaniel|imagens/uploads/tralha-tv/tralha-tv-encerramento-02.jpeg\nGabi|imagens/uploads/tralha-tv/gabi-logo.jpeg\nAlice|imagens/uploads/tralha-tv/alice-logo.jpeg\nJu|imagens/uploads/tralha-tv/tralha-tv-encerramento-03.jpeg\nMavi|imagens/uploads/tralha-tv/mavi-logo.jpeg",
+    members: "Anjmelly|imagens/uploads/tralha-tv/Anjelly-logo.jpeg\nGabriel|imagens/uploads/tralha-tv/tralha-tv-encerramento-01.jpeg\nLyra|imagens/uploads/tralha-tv/lyra-logo.jpeg\nDaniel|imagens/uploads/tralha-tv/tralha-tv-encerramento-02.jpeg\nGabi|imagens/uploads/tralha-tv/gabi-logo.jpeg\nAlice|imagens/uploads/tralha-tv/alice-logo.jpeg\nDu|imagens/uploads/tralha-tv/tralha-tv-encerramento-03.jpeg\nMavi|imagens/uploads/tralha-tv/mavi-logo.jpeg",
     videos: "Episódio de estreia|https://www.youtube.com/@tralhatv|Conheça a Tralha TV\nAo vivo|https://www.youtube.com/@tralhatv/live|Acompanhe as novidades",
   }],
 };
